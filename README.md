@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Angela Njeri Kagwi
-- 👀 I’m interested in Software design and development
-- 🌱 I’m currently learning web design and development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 0769293027 or 0771973504
-
-<!---
-NjeriKagwi/NjeriKagwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm Angela Njeri, a UI/UX designer, graphic designer, and front-end web developer. I love creating visually stunning interfaces and bringing them to life using HTML, CSS, and JavaScript. Currently, I'm diving into backend development to broaden my skill set. I'm passionate about staying up-to-date with industry trends and always strive for excellence in my work. Let's build something amazing together! 
